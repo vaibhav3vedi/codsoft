@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../img/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box{
+    background-color: #9B9191;;
+    /* width: 1440px; */
+    height: 117px;
+    mix-blend-mode: color-dodge;
+}
+.head3{
+    color: white;
+    font-family: Jomhuria;
+    top: 173px;
+    position: relative;
+    left: 130px;
+}
+.head4{
+    color: white;
+    font-family: Jomhuria;
+    top: 173px;
+    position: relative;
+    left: 130px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 105px;
+    position: absolute;
+color: white;
+font-family: Poppins;
+font-size: 19px;
+font-style: normal;
+font-weight: bold;
+line-height: 111px;
+left: 525px;
+top: 1px;
+
+}
+
+
+#head1{
+    background-color: black;
+    color: white;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#head2{
+    background-color: white;
+    color: black;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.head{
+    position: relative;
+    left: 130px;
+    top: 39px;
+}
+.btn2{
+    position: relative;
+    width: 140px;
+height: 45px;
+border-radius: 38px;
+background: #241D1D;
+color: white;
+top: 245px;
+left: 130px;
+}
+#btn1{
+    background-color: black;
+    color: white;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    width: 67px;
+    border-top-left-radius: 14px;
+    border-bottom-left-radius: 14px
+    
+}
+#btn2{
+    background-color: white;
+    color: black;display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    width: 67px;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px
+    
+}
+.btn{
+    position: relative;
+    left: 130px;
+    top: 4px;
+    
+}
+p{
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    width: 309px;
+    left: 1066px;
+    
+}
